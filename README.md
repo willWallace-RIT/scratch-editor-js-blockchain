@@ -1,7 +1,7 @@
 # scratch-editor: The Scratch Editor Monorepo
 
 
-conversion of a cloud based scratch where every function locally is a blockchain address. like lego blockchain. 
+conversion to a cloud based scratch where every function locally is a blockchain address. like lego blockchain. 
 
 this is the initial fork of the project and I have too many projects looking for traction.
 
